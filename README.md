@@ -73,13 +73,13 @@ Social media app that allows friends to talk share their love for movies. Users 
    * Post Creation
 
 ## Wireframes
-<img src="https://github.com/CodePath-IOS-2022-Project/SurfsUp/blob/main/sketch.png" width=600>
+<img src="https://github.com/bryantran46/Flixtagram-Application/blob/main/sketch.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://github.com/CodePath-IOS-2022-Project/SurfsUp/blob/main/FigmaWireframe.png" width=600>
+<img src="https://github.com/bryantran46/Flixtagram-Application/blob/main/FigmaWireframe.png" width=600>
 
 ### [BONUS] Interactive Prototype
-<img src="https://github.com/CodePath-IOS-2022-Project/SurfsUp/blob/main/prototype.gif">
+<img src="https://github.com/bryantran46/Flixtagram-Application/blob/main/prototype.gif">
 
 ## Schema 
 ### Models
@@ -150,15 +150,15 @@ Post
 
 ## Build Progress
 ### Sprint 1
-<img src=https://github.com/CodePath-IOS-2022-Project/SurfsUp/blob/main/sprintOne.gif>
+<img src=https://github.com/bryantran46/Flixtagram-Application/blob/main/sprintOne.gif>
 
 ### Sprint 2
 After evaluating our first sprint, we decided to change our project from a social media app targeted towards surfers, to be a social media app targeted towards movie lovers. 
 
-<img src=https://github.com/CodePath-IOS-2022-Project/Flixtagram/blob/main/sprint2.gif>
+<img src=https://github.com/bryantran46/Flixtagram-Application/blob/main/sprint2.gif>
 
 ### Sprint 3
 Due to time constraints, we were unable to fully finish the "Optional Nice-to-have Stories." 
 
-<img src=https://github.com/CodePath-IOS-2022-Project/Flixtagram/blob/main/sprint2.gif>
+<img src=https://github.com/bryantran46/Flixtagram-Application/blob/main/sprint2.gif>
 
